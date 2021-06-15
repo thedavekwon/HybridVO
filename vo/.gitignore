@@ -1,0 +1,6 @@
+__pycache__/
+tmp/
+results/
+figs/
+pickles/
+run_vo.py
