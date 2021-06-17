@@ -18,7 +18,7 @@ vo = VO2D2D(
     true_rotation=False,
     enable_pose_graph=False,
     pose_graph_only_rot=False,
-    show_traj=False,
+    show_traj=True,
 )
 print(vo)
 vo.run()
