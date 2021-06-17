@@ -1,7 +1,6 @@
 bin/
 dataset/
 include/
-lib/
 lib64/
 share/
 weights/
