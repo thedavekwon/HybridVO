@@ -1,7 +1,7 @@
 # HybridVO
 * Pretrained FlowNet weights from [ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
 * RAdam Optimizer from [LiyuanLucasLiu/RAdam](https://github.com/LiyuanLucasLiu/RAdam)
-* Midterm for ECE471 Deep Learning Cooper Union
+
 # Results
 ### Training Sequence
 * sequence 00 \
