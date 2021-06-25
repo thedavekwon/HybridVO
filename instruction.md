@@ -15,6 +15,8 @@ Configure all variables in src/constants.py
 
 Download pretrained [FlowNet](https://drive.google.com/drive/folders/16eo3p9dO_vmssxRoZCmWkTpNjKRzJzn5) and configure path in src/constants.py
 
+Transform all images into uniform dimension with src/transform.py
+
 ## Training
 ```
 // DeepVO
